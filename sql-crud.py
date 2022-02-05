@@ -139,7 +139,7 @@ patricia_oneill = Programmer(
 # for programmer in programmers:
 #     session.delete(programmer)
 #     session.commit()
-# Warning DO NOT ADD THIS CODE USED FOR DEMONSTRATION PURPOSES ONLY!!!
+# WARNING DO NOT ADD THIS CODE USED FOR DEMONSTRATION PURPOSES ONLY!!!
 
 
 # query the database to find all Programmers
